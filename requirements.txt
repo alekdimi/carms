@@ -1,0 +1,6 @@
+numpy>=1.19.2
+scipy>=1.5.2
+matplotlib>=3.3.2
+tensorflow>=2.4.0
+tensorflow_datasets>=4.2.0
+tensorflow_probability>=0.12.1

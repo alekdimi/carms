@@ -5,11 +5,7 @@ import vae
 import datasets
 import networks
 
-from absl import app, flags, logging
 
-
-# flags = tf.compat.v1.flags
-# flags.DEFINE_string('f', '', 'kernel')
 flags.DEFINE_enum('dataset', 'dynamic_mnist', ['static_mnist', 'dynamic_mnist', 'fashion_mnist', 'omniglot'], 'Dataset to use.')
 flags.DEFINE_string('logdir', 'logs', 'Directory for storing logs.')
 flags.DEFINE_string('ckptdir', 'ckpts', 'Directory for storing checkpoints.')
