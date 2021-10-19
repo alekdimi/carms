@@ -18,7 +18,7 @@ python3 -m main \
     --num_latent=10 \
     --num_categories=5 \
     --encoder_type=nonlinear \
-    --repeat_idx=42
+    --repeat_idx=42 \
     --num_steps=1e6 \
     --demean_input \
     --initialize_with_bias \
