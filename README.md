@@ -1,7 +1,7 @@
 # CARMS: Categorical-Antithetic-REINFORCE Multi-Sample Gradient Estimator
 -----
-This is the official code repository for NeurIPS 2021 paper: *CARMS: Categorical-Antithetic-REINFORCE Multi-Sample Gradient Estimator*
-by Alek Dimitriev and Mingyuan Zhou.
+This is the official code repository for NeurIPS 2021 paper: [CARMS: Categorical-Antithetic-REINFORCE Multi-Sample Gradient Estimator](https://arxiv.org/pdf/2110.14002.pdf)
+by [Alek Dimitriev](https://alekdimi.github.io/) and [Mingyuan Zhou](https://mingyuanzhou.github.io/).
 
 To install the required packages run: *pip install -r requirements.txt*
 To reproduce the toy example run: *python3 toy.py*.
